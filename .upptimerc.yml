@@ -17,7 +17,7 @@ status-website:
   introMessage: This is the status page for www.funkysi1701.com
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Blog
