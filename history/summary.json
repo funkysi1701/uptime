@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 322,
-    "timeWeek": 322,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "time": 334,
+    "timeDay": 334,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 296,
-    "timeWeek": 296,
-    "timeMonth": 296,
-    "timeYear": 296,
+    "time": 282,
+    "timeDay": 282,
+    "timeWeek": 282,
+    "timeMonth": 282,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 331,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "time": 344,
+    "timeDay": 344,
+    "timeWeek": 344,
+    "timeMonth": 344,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -58,19 +58,19 @@
     "url": "https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net",
     "icon": "https://icons.duckduckgo.com/ip3/azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net.ico",
     "slug": "azure-function",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 727,
-    "timeDay": 727,
-    "timeWeek": 727,
-    "timeMonth": 727,
-    "timeYear": 727,
+    "status": "up",
+    "uptime": "76.99%",
+    "uptimeDay": "76.99%",
+    "uptimeWeek": "76.99%",
+    "uptimeMonth": "76.99%",
+    "uptimeYear": "76.99%",
+    "time": 751,
+    "timeDay": 751,
+    "timeWeek": 751,
+    "timeMonth": 751,
+    "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-12-22": 0
+      "2025-12-22": 12
     }
   }
 ]
