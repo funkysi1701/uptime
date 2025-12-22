@@ -11,7 +11,8 @@ sites:
     url: https://mandelbrot.funkysi1701.com
   - name: Azure Function
     url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net
-
+assignees:
+  - funkysi1701
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
