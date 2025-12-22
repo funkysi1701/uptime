@@ -9,10 +9,12 @@ sites:
     location: World
   - name: Certifications
     url: https://certification.funkysi1701.com
+    icon: https://www.funkysi1701.com/images/icons/favicon.ico
   - name: Mandelbrot
     url: https://mandelbrot.funkysi1701.com
   - name: Azure Function
-    url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net
+    url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net#
+    icon: https://www.funkysi1701.com/images/icons/favicon.ico
 assignees:
   - funkysi1701
 status-website:
