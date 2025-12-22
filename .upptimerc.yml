@@ -6,7 +6,9 @@ sites:
   - name: Funky Si''s Blog
     url: https://www.funkysi1701.com
   - name: Certifications
-    url: https://certification.funkysi1701.com   
+    url: https://certification.funkysi1701.com
+  - name: Mandelbrot
+    url: https://mandelbrot.funkysi1701.com  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
