@@ -3,14 +3,14 @@ owner: funkysi1701 # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
-  - name: Funky Si''s Blog
+  - name: www.funkysi1701.com
     url: https://www.funkysi1701.com
     type: globalping
     location: World
-  - name: Certifications
+  - name: certification.funkysi1701.com
     url: https://certification.funkysi1701.com
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
-  - name: Mandelbrot
+  - name: mandelbrot.funkysi1701.com
     url: https://mandelbrot.funkysi1701.com
   - name: Azure Function
     url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net#
@@ -25,7 +25,7 @@ status-website:
   logoUrl: https://www.funkysi1701.com/images/icons/favicon.ico
   favicon: https://www.funkysi1701.com/images/icons/favicon.ico
   name: Status
-  introTitle: "This is the status page for www.funkysi1701.com"
+  introTitle: "This is the status page for services run by funkysi1701"
   #introMessage: This is the status page for www.funkysi1701.com
   navbar:
     - title: GitHub
