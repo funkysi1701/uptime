@@ -12,7 +12,7 @@ workflowSchedule:
 sites:
   - name: www.funkysi1701.com
     url: https://www.funkysi1701.com
-    maxResponseTime: 500
+    maxResponseTime: 200
     type: globalping
     location: World
   - name: certification.funkysi1701.com
@@ -21,10 +21,10 @@ sites:
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
   - name: mandelbrot.funkysi1701.com
     url: https://mandelbrot.funkysi1701.com
-    maxResponseTime: 500
+    maxResponseTime: 200
   - name: Azure Function
     url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net
-    maxResponseTime: 500
+    maxResponseTime: 200
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
 assignees:
   - funkysi1701
