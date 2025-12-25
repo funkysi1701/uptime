@@ -19,8 +19,11 @@ sites:
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
   - name: mandelbrot.funkysi1701.com
     url: https://mandelbrot.funkysi1701.com
+  - name: Slow endpoint
+    url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net
+    maxResponseTime: 1000
   - name: Azure Function
-    url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net#
+    url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
 assignees:
   - funkysi1701
