@@ -4,9 +4,9 @@
     "url": "https://www.funkysi1701.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.funkysi1701.com.ico",
     "slug": "www-funkysi1701-com",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 233,
     "timeMonth": 233,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-25": 0
+    }
   },
   {
     "name": "certification.funkysi1701.com",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 287,
-    "timeWeek": 322,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "time": 306,
+    "timeDay": 269,
+    "timeWeek": 306,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 685,
-    "timeDay": 367,
-    "timeWeek": 685,
-    "timeMonth": 685,
-    "timeYear": 685,
+    "time": 664,
+    "timeDay": 349,
+    "timeWeek": 664,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2025-12-22": 9
     }
