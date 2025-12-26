@@ -26,6 +26,8 @@ sites:
     url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net
     maxResponseTime: 200
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
+  - name: Waterh
+    url: https://api.waterh.com
 assignees:
   - funkysi1701
 status-website:
