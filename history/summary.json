@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.funkysi1701.com.ico",
     "slug": "www-funkysi1701-com",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 345,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {
-      "2025-12-26": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "certification.funkysi1701.com",
@@ -31,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 60,
+    "timeDay": 62,
     "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 89,
@@ -60,19 +58,19 @@
     "url": "https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net",
     "icon": "https://www.funkysi1701.com/images/icons/favicon.ico",
     "slug": "azure-function",
-    "status": "degraded",
-    "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 294,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 292,
     "timeDay": 172,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-12-26": 0,
+      "2025-12-26": 9,
       "2025-12-22": 9
     }
   },
@@ -93,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-26": 856
+      "2025-12-26": 865
     }
   }
 ]
