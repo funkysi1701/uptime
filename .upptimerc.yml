@@ -28,6 +28,10 @@ sites:
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
   - name: Waterh
     url: https://api.waterh.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 assignees:
   - funkysi1701
 status-website:
