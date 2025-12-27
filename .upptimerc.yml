@@ -30,8 +30,6 @@ sites:
     url: https://api.waterh.com
     icon: https://cdn.shopify.com/s/files/1/0615/3145/5722/files/logo_knock.svg?v=1737477277
     expectedStatusCodes:
-      - 200
-      - 201
       - 404
 assignees:
   - funkysi1701
