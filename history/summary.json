@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 314,
-    "timeWeek": 290,
-    "timeMonth": 290,
-    "timeYear": 290,
+    "time": 288,
+    "timeDay": 313,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 90,
+    "time": 89,
     "timeDay": 59,
-    "timeWeek": 90,
-    "timeMonth": 90,
-    "timeYear": 90,
+    "timeWeek": 89,
+    "timeMonth": 89,
+    "timeYear": 89,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.43%",
-    "time": 284,
+    "time": 283,
     "timeDay": 209,
-    "timeWeek": 284,
-    "timeMonth": 284,
-    "timeYear": 284,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2025-12-27": 28,
       "2025-12-22": 9
@@ -80,18 +80,18 @@
     "icon": "https://cdn.shopify.com/s/files/1/0615/3145/5722/files/logo_knock.svg?v=1737477277",
     "slug": "waterh",
     "status": "down",
-    "uptime": "13.06%",
-    "uptimeDay": "14.19%",
-    "uptimeWeek": "13.06%",
-    "uptimeMonth": "13.06%",
-    "uptimeYear": "13.06%",
+    "uptime": "13.02%",
+    "uptimeDay": "14.20%",
+    "uptimeWeek": "13.02%",
+    "uptimeMonth": "13.02%",
+    "uptimeYear": "13.02%",
     "time": 255,
     "timeDay": 255,
     "timeWeek": 255,
     "timeMonth": 255,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-12-27": 471,
+      "2025-12-27": 478,
       "2025-12-26": 889
     }
   }
