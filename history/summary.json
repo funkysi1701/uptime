@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 345,
-    "timeWeek": 322,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "time": 317,
+    "timeDay": 340,
+    "timeWeek": 317,
+    "timeMonth": 317,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   },
   {
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 62,
+    "timeDay": 63,
     "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 89,
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 62,
-    "timeWeek": 104,
-    "timeMonth": 104,
-    "timeYear": 104,
+    "time": 101,
+    "timeDay": 61,
+    "timeWeek": 101,
+    "timeMonth": 101,
+    "timeYear": 101,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,17 @@
     "icon": "https://www.funkysi1701.com/images/icons/favicon.ico",
     "slug": "azure-function",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 292,
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 289,
     "timeDay": 172,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "timeWeek": 289,
+    "timeMonth": 289,
+    "timeYear": 289,
     "dailyMinutesDown": {
-      "2025-12-26": 9,
       "2025-12-22": 9
     }
   },
@@ -85,13 +84,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 256,
+    "timeDay": 256,
+    "timeWeek": 256,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-12-26": 865
+      "2025-12-27": 30,
+      "2025-12-26": 889
     }
   }
 ]
