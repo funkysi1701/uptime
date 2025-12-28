@@ -26,6 +26,10 @@ sites:
     url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net
     maxResponseTime: 200
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
+  - name: Azure Static Web App
+    url: https://agreeable-forest-0009bc903.1.azurestaticapps.net
+    maxResponseTime: 200
+    icon: https://www.funkysi1701.com/images/icons/favicon.ico
   - name: Waterh
     url: https://api.waterh.com
     icon: https://cdn.shopify.com/s/files/1/0615/3145/5722/files/logo_knock.svg?v=1737477277
