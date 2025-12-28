@@ -27,7 +27,7 @@ sites:
     maxResponseTime: 200
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
   - name: Azure Static Web App
-    url: https://agreeable-forest-0009bc903.1.azurestaticapps.net
+    url: https://search.funkysi1701.com
     maxResponseTime: 200
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
   - name: Waterh
