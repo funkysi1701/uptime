@@ -39,6 +39,9 @@ sites:
 assignees:
   - funkysi1701
 status-website:
+  metaTags:
+    - name: "description"
+      content: "This is the status page for services run by funkysi1701"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.funkysi1701.com
