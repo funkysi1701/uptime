@@ -1,7 +1,7 @@
 url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net
-status: up
+status: degraded
 code: 200
-responseTime: 186
-lastUpdated: 2026-01-03T18:07:41.323Z
+responseTime: 2183
+lastUpdated: 2026-01-03T20:25:09.970Z
 startTime: 2025-12-22T20:42:17.378Z
 generator: Upptime <https://github.com/upptime/upptime>
