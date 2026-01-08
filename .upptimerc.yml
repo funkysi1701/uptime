@@ -12,7 +12,7 @@ workflowSchedule:
 sites:
   - name: www.funkysi1701.com
     url: https://www.funkysi1701.com
-    maxResponseTime: 300
+    maxResponseTime: 400
     type: globalping
     location: World
   - name: certification.funkysi1701.com
