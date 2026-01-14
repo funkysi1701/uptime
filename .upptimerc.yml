@@ -29,6 +29,9 @@ sites:
     url: https://search.funkysi1701.com
     maxResponseTime: 200
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
+  - name: episodes.funkysi1701.com
+    url: https://episodes.funkysi1701.com
+    maxResponseTime: 200
 assignees:
   - funkysi1701
 status-website:
