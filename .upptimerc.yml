@@ -30,7 +30,7 @@ sites:
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
   - name: Azure Function
     url: https://azurefunction-d4bkcjdahseefphm.uksouth-01.azurewebsites.net
-    maxResponseTime: 200
+    maxResponseTime: 400
     icon: https://www.funkysi1701.com/images/icons/favicon.ico
 
 assignees:
