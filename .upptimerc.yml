@@ -16,6 +16,9 @@ sites:
   - name: mandelbrot.funkysi1701.com
     url: https://mandelbrot.funkysi1701.com
     icon: https://mandelbrot.funkysi1701.com/favicon.ico
+    maxResponseTime: 200   
+  - name: www.episodeatlas.com
+    url: https://www.episodeatlas.com
     maxResponseTime: 200    
   - name: episodes.funkysi1701.com
     url: https://episodes.funkysi1701.com
