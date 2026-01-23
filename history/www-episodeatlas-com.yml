@@ -1,7 +1,7 @@
 url: https://www.episodeatlas.com
-status: down
+status: degraded
 code: 403
-responseTime: 178
-lastUpdated: 2026-01-23T18:52:00.404Z
+responseTime: 260
+lastUpdated: 2026-01-23T20:02:27.487Z
 startTime: 2026-01-19T10:36:48.093Z
 generator: Upptime <https://github.com/upptime/upptime>
