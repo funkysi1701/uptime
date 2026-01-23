@@ -43,19 +43,19 @@
     "url": "https://www.episodeatlas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.episodeatlas.com.ico",
     "slug": "www-episodeatlas-com",
-    "status": "degraded",
-    "uptime": "94.83%",
-    "uptimeDay": "76.84%",
-    "uptimeWeek": "94.83%",
-    "uptimeMonth": "94.83%",
-    "uptimeYear": "94.83%",
+    "status": "down",
+    "uptime": "94.63%",
+    "uptimeDay": "75.87%",
+    "uptimeWeek": "94.63%",
+    "uptimeMonth": "94.63%",
+    "uptimeYear": "94.63%",
     "time": 120,
-    "timeDay": 161,
+    "timeDay": 158,
     "timeWeek": 120,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2026-01-23": 334
+      "2026-01-23": 348
     }
   },
   {
@@ -64,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/episodes.funkysi1701.com.ico",
     "slug": "episodes-funkysi1701-com",
     "status": "degraded",
-    "uptime": "97.00%",
-    "uptimeDay": "74.36%",
-    "uptimeWeek": "95.91%",
-    "uptimeMonth": "97.00%",
-    "uptimeYear": "97.00%",
+    "uptime": "96.90%",
+    "uptimeDay": "73.39%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "96.90%",
+    "uptimeYear": "96.90%",
     "time": 110,
     "timeDay": 195,
     "timeWeek": 117,
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2026-01-23": 369,
+      "2026-01-23": 383,
       "2026-01-22": 43
     }
   },
