@@ -19,10 +19,10 @@ sites:
     maxResponseTime: 200   
   - name: www.episodeatlas.com
     url: https://www.episodeatlas.com
-    maxResponseTime: 200    
+    maxResponseTime: 400    
   - name: episodes.funkysi1701.com
     url: https://episodes.funkysi1701.com
-    maxResponseTime: 200
+    maxResponseTime: 400
   - name: certification.funkysi1701.com
     url: https://certification.funkysi1701.com
     maxResponseTime: 200
