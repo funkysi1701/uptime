@@ -45,7 +45,7 @@ status-website:
   #baseUrl: /uptime
   logoUrl: https://www.funkysi1701.com/images/icons/favicon.ico
   favicon: https://www.funkysi1701.com/images/icons/favicon.ico
-  name: Status
+  name: funkysi1701 Status Page
   introTitle: "This is the status page for services run by funkysi1701"
   #introMessage: This is the status page for www.funkysi1701.com
   navbar:
