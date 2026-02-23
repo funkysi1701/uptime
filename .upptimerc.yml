@@ -19,6 +19,7 @@ sites:
     maxResponseTime: 200   
   - name: www.episodeatlas.com
     url: https://www.episodeatlas.com
+    icon: https://www.episodeatlas.com/favicon.ico
     maxResponseTime: 400    
   - name: certification.funkysi1701.com
     url: https://certification.funkysi1701.com
