@@ -20,6 +20,9 @@ sites:
   - name: www.episodeatlas.com
     url: https://www.episodeatlas.com
     icon: https://www.episodeatlas.com/favicon.ico
+  - name: www.thornepentecostalchurch.co.uk
+    url: https://www.thornepentecostalchurch.co.uk
+    icon: https://www.thornepentecostalchurch.co.uk/favicon.ico    
     maxResponseTime: 20000    
   - name: certification.funkysi1701.com
     url: https://certification.funkysi1701.com
