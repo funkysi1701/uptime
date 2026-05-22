@@ -7,7 +7,7 @@ workflowSchedule:
   staticSite: "20 1 * * *"
   summary: "5 0 * * *"
   updateTemplate: "0 0 * * *"
-  updates: "10 3 * * *"
+  updates: "25 3 * * *"
   uptime: "*/5 * * * *"
 sites:
   - name: www.funkysi1701.com
