@@ -8,7 +8,7 @@ workflowSchedule:
   summary: "5 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "25 3 * * *"
-  uptime: "*/5 * * * *"
+  uptime: "*/10 * * * *"
 sites:
   - name: www.funkysi1701.com
     url: https://www.funkysi1701.com
