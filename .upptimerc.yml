@@ -2,13 +2,13 @@
 owner: funkysi1701 # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 workflowSchedule:
-  graphs: "10 * * * *"
+  graphs: "10 0 * * *"
   responseTime: "15 */6 * * *"
   staticSite: "20 1 * * *"
   summary: "5 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "25 3 * * *"
-  uptime: "*/15 * * * *"
+  uptime: "*/30 * * * *"
 sites:
   - name: www.funkysi1701.com
     url: https://www.funkysi1701.com
