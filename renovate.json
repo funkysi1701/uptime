@@ -2,5 +2,15 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended"
+  ],
+  "packageRules": [
+    {
+      "matchPackageNames": [
+        "actions/checkout",
+        "actions/setup-node",
+        "node"
+      ],
+      "enabled": false
+    }
   ]
 }
