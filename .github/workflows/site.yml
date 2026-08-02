@@ -20,7 +20,7 @@ on:
     paths:
       - "assets/**"
   schedule:
-    - cron: "20 1 * * *"
+    - cron: "0 2 * * *"
   repository_dispatch:
     types: [static_site]
   workflow_dispatch:
